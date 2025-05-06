@@ -2,14 +2,14 @@
 # https://jekyllrb.com/docs/configuration/
 
 theme: minima
-repository: FriendsOfREDAXO/community
+repository: SIA-Share/AlumniMap
 plugins: []
-timezone: Europe/Berlin
+timezone: Asia/Beijing
 
 # SEO
 # https://github.com/jekyll/jekyll-seo-tag
-title: REDAXO Community World Map
-description: A map filled with people being involved in REDAXO CMS. Hosted at GitHub, which allows for everyone to add their map entries. Join us!
+title: SIA CAS Alumni Community World Map
+description: A map filled with SIA alumni all over the world. Hosted at GitHub, which allows for everyone to add their map entries. Join us!
 
 # Assets
 # https://jekyllrb.com/docs/assets/

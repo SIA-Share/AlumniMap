@@ -12,9 +12,14 @@ The screenshot above shows what user entries look like. You’ll even get your o
 
 You can add your marker to the map and manage your data by yourself. Learn about [3 ways how to manage your entry](https://github.com/FriendsOfREDAXO/community/tree/master/_directory)! 🚀
 
+You may use this [link](https://www.latlong.net/) to find your own latitude and longitude.
+
+
 ## Who’s the map for?
 
 The map is for any SIA student, staff, alumnus and alumna. Alumni include all individuals who have ever studied or worked at SIA. It’s about visualizing the SIA alumni community. If you one of SIA, the map is for you!
+
+
 
 ## How does this map work?
 
