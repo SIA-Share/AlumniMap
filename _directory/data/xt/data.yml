@@ -6,8 +6,8 @@ name: XT
 # geo location (required)
 # provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
 # you may use services like openstreetmap.org to find out your geo location
-latitude: 21.761112
-longitude: 116.441683
+latitude: 22.997799
+longitude: 113.744028
 
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
