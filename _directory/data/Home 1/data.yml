@@ -17,11 +17,11 @@ bio: "Nanta Campus, Shenyang Inititute of Automation, Chinese Academy of Science
 # image or gravatar
 # provide image file from current folder (like 'johndoe.jpg') or gravatar url (generated via https://3v4l.org/OXG7H)
 # should be square and about 200-300 px size!
-image: _directory/data/Home 1/SIA_Round_Logo-removebg-preview.png
+image: SIA_Round_Logo-removebg-preview.png
 
 # links
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops!
-links:
+link:
 - http://www.sia.cas.cn/
 ---
