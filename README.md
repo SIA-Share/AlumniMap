@@ -34,9 +34,8 @@ See [SETUP.md](https://github.com/FriendsOfREDAXO/community/blob/master/SETUP.md
 
 ## 🛠️ Maintainers
 
-
 <div>
   <a href="https://github.com/likecanyon">
-    <img src="https://github.com/likecanyon/likecanyon.github.io/blob/main/images/11.jpg" width="100" alt="AdAstra7" style="border-radius: 50%;">
+    <img src="https://github.com/likecanyon/likecanyon.github.io/blob/main/images/shenzhen_3.jpeg" width="100" alt="AdAstra7" style="border-radius: 50%;">
   </a>
 </div>
