@@ -1,7 +1,7 @@
 ---
 # name (required)
 # may be your real name or your nick
-name: Home Chuangxin Road
+name: SIA
 
 # geo location (required)
 # provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
@@ -22,6 +22,6 @@ image: home2.png
 # links
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops!
-link:
+links:
 - http://www.sia.cas.cn/
 ---
