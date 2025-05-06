@@ -6,7 +6,7 @@ A map filled with SIA,CAS alumni who are willing to help current SIA students in
 
 ![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/community/assets/community_03.png)
 
-The screenshot above shows what user entries look like. You’ll even get your own URL for your entry, which is awesome! Look, this is a [link to Markus](https://friendsofredaxo.github.io/community/#staabm).
+The screenshot above shows what user entries look like. You’ll even get your own URL for your entry, which is awesome! Look, this is a [link to Markus](https://sia-share.github.io/AlumniMap/#siananta).
 
 ## How to add and manage your entry?
 
