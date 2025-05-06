@@ -14,7 +14,7 @@ You can add your marker to the map and manage your data by yourself. Learn about
 
 ## Who’s the map for?
 
-The map is for any person being involved in REDAXO: developers, users, editors, writers, designers, friends and family et al. It’s about visualizing the REDAXO community. If you use or support REDAXO, the map is for you!
+The map is for any SIA student, staff, alumnus and alumna. Alumni include all individuals who have ever studied or worked at SIA. It’s about visualizing the SIA alumni community. If you one of SIA, the map is for you!
 
 ## How does this map work?
 
@@ -32,7 +32,11 @@ Also if your map is live we’d be grateful to receive a quick note from you: _f
 
 See [SETUP.md](https://github.com/FriendsOfREDAXO/community/blob/master/SETUP.md) for instructions.
 
-## What else?
+## 🛠️ Maintainers
 
-You should join our Slack chat. It’s full of nice REDAXO people! ✌️  
-Provide your email to receive an invitation: https://redaxo.org/slack/
+
+<div>
+  <a href="https://github.com/likecanyon">
+    <img src="https://github.com/likecanyon/likecanyon.github.io/blob/main/images/11.jpg" width="100" alt="AdAstra7" style="border-radius: 50%;">
+  </a>
+</div>
