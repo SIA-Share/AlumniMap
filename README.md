@@ -1,6 +1,6 @@
 # SIA,CAS Alumni Community World Map
 
-A map filled with people being involved in [REDAXO](https://redaxo.org) CMS. Hosted at GitHub, which allows for everyone to add their map entries. ♥ Join us!
+A map filled with SIA,CAS alumni who are willing to help current SUSTech students in their application procedure. Hosted at GitHub, which allows for everyone to add their map entries. ♥ Join us!
 
 👉 __https://sia-share.github.io/AlumniMap/__
 
