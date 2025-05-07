@@ -30,8 +30,6 @@ No big deal: GitHub allows to generate static websites out of repositories. They
 
 Sure, it’s open source! However, we don’t provide a release or some setup script. We’d recommend you to download the repo as zip file instead and make it run on your local machine first (see [SETUP.md](https://github.com/sia-share/alumnimap/blob/master/SETUP.md) for instructions). Afterwards you’ll need to replace some ` SIA ` content with your community content, empty the `_directory/data` folder and start over with a shiny fresh map.
 
-In case you struggle, we’d love to help! 🙋‍♂️  
-Also if your map is live we’d be grateful to receive a quick note from you: _friendsof [at] redaxo.org_. Thanks!
 
 ## How to run the map on my local machine?
 
