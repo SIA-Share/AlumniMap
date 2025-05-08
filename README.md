@@ -1,6 +1,15 @@
+<!--
+ * @Author: likecanyon 1174578375@qq.com
+ * @Date: 2025-05-08 09:31:51
+ * @LastEditors: likecanyon 1174578375@qq.com
+ * @LastEditTime: 2025-05-08 09:37:25
+ * @FilePath: \AlumniMap\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # SIA,CAS Alumni Community World Map
 
-A map filled with SIA,CAS alumni who are willing to help current SIA students in their application procedure. Hosted at GitHub, which allows for everyone to add their map entries. ♥ Join us!
+- This map features alumni from SIA, CAS who are open to sharing their experiences and connecting with fellow alumni.
+- It’s hosted on GitHub, making it easy for anyone to contribute and add their own location. ♥️ Come join us!
 
 👉 __https://sia-share.github.io/AlumniMap/__
 
@@ -33,7 +42,7 @@ Sure, it’s open source! However, we don’t provide a release or some setup sc
 
 ## How to run the map on my local machine?
 
-See [SETUP.md](https://github.com/FriendsOfREDAXO/community/blob/master/SETUP.md) for instructions.
+See [SETUP.md](https://github.com/sia-share/alumnimap/blob/master/SETUP.md) for instructions.
 
 ## 🛠️ Maintainers
 
