@@ -35,5 +35,7 @@ If you're not sure, take a look at existing user folders to see how to do it. An
 
 The map requires your name or nickname and your geo position. Everything else is optional. Of course we'd all love to read more about you and maybe see your picture! But it’s completely up to you whether to provide it or not!
 
+You may use this [link](https://www.latlong.net/) to find your own latitude and longitude.
+
 ❤️
 

@@ -1,11 +1,12 @@
 <!--
- * @Author: likecanyon  
- * @Date: 2025-05-08 09:31:51
- * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 10:01:17
- * @FilePath: \AlumniMap\_directory\README.md
+ * @Author: likecanyon 
+ * @Date: 2025-05-08 09:53:13
+ * @LastEditors: likecanyon 
+ * @LastEditTime: 2025-05-08 10:08:03
+ * @FilePath: \AlumniMap\_directory\README_cn.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
+
 <!-- README.md with language toggle -->
 👉[English Version](https://github.com/SIA-Share/AlumniMap/blob/master/_directory/README.md) 
 
@@ -43,6 +44,4 @@
 
 ## 需提供哪些数据？
 
-地图最基本需要你的姓名或昵称和地理位置，其他都是可选项。我们很希望了解你更多，看到你的头像，但是是否提供全由你自己决定。
-
-❤️
+地图最基本需要你的**姓名或昵称**和**地理位置（经纬度）**， [这个链接可以帮助你找到你的坐标](https://www.latlong.net/)，**其他都是可选项**。我们很希望了解你更多，看到你的头像，但是是否提供全由你自己决定。❤️
