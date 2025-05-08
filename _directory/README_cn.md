@@ -2,7 +2,7 @@
  * @Author: likecanyon 
  * @Date: 2025-05-08 09:53:13
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 14:05:33
+ * @LastEditTime: 2025-05-08 14:32:55
  * @FilePath: \AlumniMap\_directory\README_cn.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -15,7 +15,7 @@
 地图最基本需要你的
 - **姓名或昵称** **必选项**
 - **入学信息，如21级硕士，16级博士等**，**必选项**
-- **地理位置（坐标）**， [这个链接可以帮助你找到你的坐标](https://www.latlong.net/)，**必选项**
+- **地理位置（坐标, 可以是工作或学习单位的坐标，也可以是你的常用地址）**， [这个链接可以帮助你找到你的坐标](https://www.latlong.net/)，**必选项**
 - 现工作或学习单位名称 **可选项**。
 - 邮箱 **可选项**
 - 个人主页 **可选项**
