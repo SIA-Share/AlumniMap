@@ -1,8 +1,8 @@
 <!--
  * @Author: likecanyon 
  * @Date: 2025-05-08 09:53:13
- * @LastEditors: likecanyon 
- * @LastEditTime: 2025-05-08 10:08:03
+ * @LastEditors: likecanyon 1174578375@qq.com
+ * @LastEditTime: 2025-05-08 10:54:57
  * @FilePath: \AlumniMap\_directory\README_cn.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -28,7 +28,7 @@
 
 ## 3. 联系我们
 
-最不推荐的方式，但是没关系，我们依然很乐意帮助你！如果你没有 GitHub 账号，或者不想在网上揭露资料，那就直接把资料发给我们吧。**邮箱：** _friendsof [at] redaxo.org_
+最不推荐的方式，但是没关系，我们依然很乐意帮助你！如果你没有 GitHub 账号，或者不想在网上揭露资料，那就直接把资料发给我们吧。**邮箱：** 1174578375@qq.com
 
 须知：需要提供什么资料？ 👇
 

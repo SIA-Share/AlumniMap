@@ -1,3 +1,11 @@
+<!--
+ * @Author: likecanyon 1174578375@qq.com
+ * @Date: 2025-05-08 09:31:51
+ * @LastEditors: likecanyon 1174578375@qq.com
+ * @LastEditTime: 2025-05-08 10:55:14
+ * @FilePath: \AlumniMap\_directory\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 👉[中文版文档](https://github.com/SIA-Share/AlumniMap/blob/master/_directory/README_cn.md) 
 
@@ -19,7 +27,7 @@ Second best option: if you’re not familiar with forking and pull requests, jus
 
 ## 3. Contact us
 
-Worst option, but no worries, we’d love to help! If you don’t have a GitHub account at all or you do not feel comfortable to open an issue containing your data, just send it to us. **Email:** _friendsof [at] redaxo.org_
+Worst option, but no worries, we’d love to help! If you don’t have a GitHub account at all or you do not feel comfortable to open an issue containing your data, just send it to us. **Email:** 1174578375@qq.com
 
 Btw: what data? 👇
 
