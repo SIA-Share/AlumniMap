@@ -2,11 +2,12 @@
  * @Author: likecanyon 1174578375@qq.com
  * @Date: 2025-05-08 09:31:51
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 10:02:15
+ * @LastEditTime: 2025-05-08 15:25:28
  * @FilePath: \AlumniMap\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 # SIA,CAS Alumni Community World Map
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SIA-Share.AlumniMap)
 
 - This map features alumni from SIA, CAS who are open to sharing their experiences and connecting with fellow alumni.
 - It’s hosted on GitHub, making it easy for anyone to contribute and add their own location. ♥️ Come join us!
