@@ -2,7 +2,7 @@
  * @Author: likecanyon 1174578375@qq.com
  * @Date: 2025-05-08 09:31:51
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 10:55:14
+ * @LastEditTime: 2025-05-08 14:06:11
  * @FilePath: \AlumniMap\_directory\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -17,7 +17,7 @@ Learn about 3 ways how to manage your entry:
 
 ## 1. Send a pull request
 
-**This is the best option:** fork the repo, add or update your entry and send a pull request. Once merged, it will be live on the map! 💯
+**This is the best option:** fork the [repo](https://github.com/SIA-Share/AlumniMap), add or update your entry and send a pull request. Once merged, it will be live on the map! 💯
 
 👉 Did you know you don’t need to work with Git to add your entry? GitHub provides all the tools on its website and you can start using them immediately, see [Howto: add your entry via GitHub website](https://github.com/SIA-Share/AlumniMap/blob/master/_directory/howto-add-entry-via-github.md).
 

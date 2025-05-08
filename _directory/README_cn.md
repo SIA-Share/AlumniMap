@@ -2,7 +2,7 @@
  * @Author: likecanyon 
  * @Date: 2025-05-08 09:53:13
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 12:54:30
+ * @LastEditTime: 2025-05-08 14:05:33
  * @FilePath: \AlumniMap\_directory\README_cn.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -72,7 +72,7 @@ links:
 
 ## 1. 提交 pull request
 
-**最推荐方式：** fork 仓库，添加或更新你的条目，提交 pull request，合并后就会显示在地图上了！ 💯
+**最推荐方式：** fork [仓库](https://github.com/SIA-Share/AlumniMap)，添加或更新你的条目，提交 pull request，合并后就会显示在地图上了！ 💯
 
 👉 你知道吗，不用 Git 也能添加条目？GitHub 网站提供了全部工具，直接上网操作就可以了，请参考 [通过 GitHub 网站添加条目的方法](https://github.com/SIA-Share/AlumniMap/blob/master/_directory/howto-add-entry-via-github.md)。
 
