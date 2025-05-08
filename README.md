@@ -2,7 +2,7 @@
  * @Author: likecanyon 1174578375@qq.com
  * @Date: 2025-05-08 09:31:51
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 09:37:25
+ * @LastEditTime: 2025-05-08 10:02:15
  * @FilePath: \AlumniMap\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -20,7 +20,8 @@ The screenshot above shows what user entries look like. You’ll even get your o
 ## How to add and manage your entry?
 
 - You can add your marker to the map and manage your data by yourself.
-- Learn about [3 ways how to manage your entry](https://github.com/sia-share/AlumniMap/tree/master/_directory)! 🚀
+- Learn about [3 ways how to manage your entry](https://github.com/sia-share/AlumniMap/tree/master/_directory/README.md)! 🚀
+- 👉[3 种添加和管理你的条目的方式](https://github.com/SIA-Share/AlumniMap/blob/master/_directory/README_cn.md) 
 - You may use this [link](https://www.latlong.net/) to find your own latitude and longitude.
 
 
