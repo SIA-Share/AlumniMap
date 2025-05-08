@@ -2,7 +2,7 @@
  * @Author: likecanyon 
  * @Date: 2025-05-08 09:53:13
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2025-05-08 15:02:24
+ * @LastEditTime: 2025-05-08 15:13:27
  * @FilePath: \AlumniMap\_directory\README_cn.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -62,7 +62,7 @@ links:
 ---
 
 ```
-如果你还是不确定，可以先看看已有用户的文件夹是怎么做的， 如 [SIA,Nanta的问价夹](https://github.com/SIA-Share/AlumniMap/tree/main/_directory/data/SIANanta)。无须担心，数据系统是安全的，没有什么操作是错误的！
+如果你还是不确定，可以先看看已有用户的文件夹是怎么做的， 如 [SIA,Nanta的文价夹](https://github.com/SIA-Share/AlumniMap/tree/main/_directory/data/SIANanta)。无须担心，数据系统是安全的，没有什么操作是错误的！
 
 # 如何添加和管理您的条目
 
