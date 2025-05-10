@@ -18,13 +18,13 @@ bio: "Hey, I’m  your friend. Welcome to chat with  handsome guy." # 这里是�
 # image or gravatar
 # provide image file from current folder (like 'johndoe.jpg') or gravatar url (generated via https://3v4l.org/OXG7H)
 # should be square and about 200-300 px size!
-image: johndoe.jpg
+image: wh.JPG
 
 # links
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops! 下面这些行可以添加您的个人主页链接，邮箱等
-links:
-- https://johndoe.me
-- https://github.com/johndoe
-- https://twitter.com/johndoe
+# links:
+# - https://johndoe.me
+# - https://github.com/johndoe
+# - https://twitter.com/johndoe
 ---
