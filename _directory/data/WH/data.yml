@@ -24,7 +24,6 @@ image: wh.JPG
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops! 下面这些行可以添加您的个人主页链接，邮箱等
 # links:
-# - https://johndoe.me
-# - https://github.com/johndoe
-# - https://twitter.com/johndoe
+links:
+- http://www.sia.cas.cn/
 ---
