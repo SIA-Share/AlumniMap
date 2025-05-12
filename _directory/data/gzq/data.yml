@@ -17,11 +17,11 @@ bio: "海外交流中，Fraunhofer 访问博士生，邮箱：gaoziqi21@mails.uc
 # image or gravatar
 # provide image file from current folder (like 'johndoe.jpg') or gravatar url (generated via https://3v4l.org/OXG7H)
 # should be square and about 200-300 px size!
-image: https://github.com/likecanyon/likecanyon.github.io/blob/main/images/shenzhen_3.jpeg
+image: gzq.jpeg
 
 # links
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops!
 links:
-- https://likecanyon.github.io/
+- https://github.com/likecanyon
 ---
